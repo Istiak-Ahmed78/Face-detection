@@ -4,7 +4,7 @@ import face_recognition
 import numpy as np
 
 
-path = 'face_detection/images'
+path = 'images'
 images = []
 classNames = []
 dirList = os.listdir(path)
